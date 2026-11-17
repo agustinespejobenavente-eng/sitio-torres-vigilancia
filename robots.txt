@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+# Add the line below once the domain is known (see DEPLOY.md):
+# Sitemap: https://SU-DOMINIO.cl/sitemap.xml

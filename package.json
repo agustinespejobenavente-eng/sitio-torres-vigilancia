@@ -1,0 +1,12 @@
+{
+  "name": "sitio-torres-vigilancia",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Sitio corporativo: torres de vigilancia forestal y estructuras metálicas. Sitio estático más un endpoint de cotización sin dependencias.",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test test/"
+  }
+}
